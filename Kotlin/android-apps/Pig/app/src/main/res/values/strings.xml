@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Pig</string>
+    <string name="header">PIG</string>
+    <string name="youPlay">You</string>
+    <string name="comPlay">Computer</string>
+    <string name="gamesWonTxt">Games Won</string>
+    <string name="totalScoreTxt">Total Score</string>
+    <string name="turnTotalTxt">Turn Total</string>
+    <string name="rollButton">ROLL</string>
+    <string name="holdButton">HOLD</string>
+    <string name="diceTotalLabel">Dice Total</string>
+    <string name="dice1">dice1</string>
+    <string name="dice2">dice2</string>
+    <string name="winLoseImage">winLoseImage</string>
+    <string name="welcomeMessage">Welcome to PIG game!</string>
+    <string name="tapToContinue">Tap the image to continue!</string>
+    <string name="developedBy">Developed by Wyatt Russell Miller</string>
+    <string name="supportBtn">Support Page</string>
+    <string name="aboutBtn">About Page</string>
+    <string name="splashImg">Two Dice Rolling</string>
+    <string name="playGame">PLAY GAME</string>
+    <string name="leaderBoardHeader">Pig Leaderoard</string>
+    <string name="showLeaderboard">SHOW LEADERBOARD</string>
+</resources>

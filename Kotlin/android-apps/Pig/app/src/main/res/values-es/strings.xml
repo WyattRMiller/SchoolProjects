@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cerdo</string>
+    <string name="header">CERDO</string>
+    <string name="youPlay">Tú</string>
+    <string name="comPlay">Computadora</string>
+    <string name="gamesWonTxt">Juegos ganados</string>
+    <string name="totalScoreTxt">Puntaje total</string>
+    <string name="turnTotalTxt">Total de giros</string>
+    <string name="rollButton">ROLLO</string>
+    <string name="holdButton">SOSTENER</string>
+    <string name="diceTotalLabel">Total de dados</string>
+    <string name="dice1">dados1</string>
+    <string name="dice2">dados2</string>
+    <string name="winLoseImage">ganarPerderImagen</string>
+    <string name="welcomeMessage">¡Bienvenido al juego PIG!</string>
+    <string name="tapToContinue">¡Toca la imagen para continuar!</string>
+    <string name="developedBy">Desarrollado por Wyatt Russell Miller</string>
+    <string name="supportBtn">Pagina de soporte</string>
+    <string name="aboutBtn">Acerca de la página</string>
+    <string name="splashImg">Lanzamiento de dos dados</string>
+    <string name="playGame">JUGAR UN JUEGO</string>
+    <string name="leaderBoardHeader">Tabla de clasificación de cerdos</string>
+    <string name="showLeaderboard">MOSTRAR LÍDER</string>
+</resources>

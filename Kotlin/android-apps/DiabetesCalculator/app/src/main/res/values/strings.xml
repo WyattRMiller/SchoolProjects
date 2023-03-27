@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Diabetes Calculator</string>
+    <string name="header">Diabetes Blood Sugar Calculator</string>
+    <string name="eAGHeader">Average Blood Sugar (eAG)</string>
+    <string name="A1cHeader">A1c</string>
+    <string name="eAGHint">0</string>
+    <string name="Ac1Hint">0.0</string>
+    <string name="btnCalcEAG">Calculate EAG</string>
+    <string name="btnCalcA1C">Calculate A1C</string>
+    <string name="rdoADAG">Use ADAG Formula</string>
+    <string name="rdoDCCT">Use DCCT Formula</string>
+</resources>
